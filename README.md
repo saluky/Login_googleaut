@@ -1,4 +1,4 @@
-# Login_googleaut
+# Login_googleauth
 Login dengan google auth
 Untuk membuat form login dengan Google Authentication menggunakan PHP, Anda dapat mengikuti langkah-langkah berikut. Dalam contoh ini, kita akan menggunakan library OAuth2 dari Google.
 
